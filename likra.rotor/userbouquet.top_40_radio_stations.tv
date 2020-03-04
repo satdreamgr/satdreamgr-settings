@@ -1,0 +1,43 @@
+#NAME Top 40 radio stations
+#SERVICE 1:64:9e:0:0:0:0:0:0:0:
+#DESCRIPTION °°°°°°EUROPE Stations °°°°°°
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//raj.krone.at%3a80/kronehit-hd.mp3:Kronehit HD
+#DESCRIPTION Kronehit HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mp3channels.webradio.de/hitmix?&amsparams=playerid%3aAntenneBayernWebPlayer;skey%3a1506760521;&lat=51.06577&lon=5.98826&listenerid=6d512b5d0553f5ebd5b75d842817f9cb&awparams=companionAds%3atrue:Antenne Bayern - Hitmix
+#DESCRIPTION Antenne Bayern - Hitmix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mp3channels.webradio.de/top-40?&amsparams=playerid%3aAntenneBayernWebPlayer;skey%3a1506760121;&lat=51.06577&lon=5.98826&listenerid=6d512b5d0553f5ebd5b75d842817f9cb&awparams=companionAds%3atrue:Antenne Bayern - Top 40
+#DESCRIPTION Antenne Bayern - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3channels.webradio.antenne.de/top-40:Antenne Top-40
+#DESCRIPTION Antenne Top-40
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:FFH Digital - Top 40
+#DESCRIPTION FFH Digital - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rnrw.cast.addradio.de/rnrw-0159/deintop40/high/stream.mp3:Radio Ennepe Ruhr - Dein Top40 Radio (D)
+#DESCRIPTION Radio Ennepe Ruhr - Dein Top40 Radio (D)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3.radiogong963.c.nmdn.net/ps-radiogongtop50/livestream.mp3:Gong-963-Top50
+#DESCRIPTION Gong-963-Top50
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqtop40.mp3:Hit-Radio-FFH---Top-40
+#DESCRIPTION Hit-Radio-FFH---Top-40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tuner.m1.fm/charts.mp3:M1FM---Top-of-the-Charts
+#DESCRIPTION M1FM---Top-of-the-Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ndr-loop-8.cast.addradio.de/ndr/loop/8/mp3/128/stream.mp3:N-JOY Top 100
+#DESCRIPTION N-JOY Top 100
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rnrw.cast.addradio.de/rnrw-017F/deintop40/high/stream.mp3:Radio Hochstift - Top 40
+#DESCRIPTION Radio Hochstift - Top 40
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//uk7.internet-radio.com%3a8226/:Box UK Radio danceradiouk
+#DESCRIPTION Box UK Radio danceradiouk
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//uk7.internet-radio.com%3a8040/:Merge 104.8
+#DESCRIPTION Merge 104.8
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//94.23.48.124%3a8000/;:Hit Fm
+#DESCRIPTION Hit Fm
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icepe3.infomaniak.ch%3a80/funradiobe-high.mp3:Fun Radio
+#DESCRIPTION Fun Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hivane01.frequence3.net%3a80/frequence3-128.mp3:FREQUENCE3 - www.frequence3.fr
+#DESCRIPTION FREQUENCE3 - www.frequence3.fr
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//nrj.de/nuernberg:ENERGY NURNBERG
+#DESCRIPTION ENERGY NURNBERG
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tuner.hit104.com%3a80:HIT104 - 100%25 Chart Webradio - Nonstop die beste Hit-Musik
+#DESCRIPTION HIT104 - 100% Chart Webradio - Nonstop die beste Hit-Musik
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//20723.live.streamtheworld.com%3a80/LOS40_SC:LOS40_SC
+#DESCRIPTION LOS40_SC
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//media-ice.musicradio.com%3a80/CapitalMP3:Capital London
+#DESCRIPTION Capital London

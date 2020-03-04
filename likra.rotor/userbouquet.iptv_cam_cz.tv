@@ -1,0 +1,19 @@
+#NAME IPTV CAM CZ
+#SERVICE 1:64:97:0:0:0:0:0:0:0:
+#DESCRIPTION  IPTV PRAGUE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/planespotting_720p/playlist.m3u8:Slow TV Air Praha
+#DESCRIPTION Slow TV Air Praha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.polar.cz%3a1935/prahatv/prahatvlive-1/playlist.m3u8:Praha TV HD
+#DESCRIPTION Praha TV HD
+#SERVICE 4097:0:1:7670:2bf:600:e080000:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8:Ocko
+#DESCRIPTION Ocko
+#SERVICE 4097:0:1:eb2a:cdf0:3000:0:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8:Ocko Star
+#DESCRIPTION Ocko Star
+#SERVICE 4097:0:1:ad9:8e40:2c7a:0:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunklist_b2628000.m3u8:Ocko Expres
+#DESCRIPTION Ocko Expres
+#SERVICE 4097:0:1:13bc:c85:3:eb0000:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1146700144.m3u8:Retro Music
+#DESCRIPTION Retro Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/amc_720p/playlist.m3u8: Praha
+#DESCRIPTION  Praha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vrsovice_720p/playlist.m3u8:Vlaky Praha
+#DESCRIPTION Vlaky Praha
